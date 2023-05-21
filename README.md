@@ -26,11 +26,3 @@ To install the app, follow these steps:
 To add a URL to the list, type the URL into the input field and click the "Add" button. If the URL is valid, it will appear in the list below the input field.
 
 Each URL in the list has an "Open" button and a "Delete" button. Click "Open" to open the URL in a new tab. Click "Delete" to remove the URL from the list.
-
-## Contributing
-
-Contributions are welcome! Please create an issue or submit a pull request.
-
-## License
-
-This project is licensed under the MIT License.
